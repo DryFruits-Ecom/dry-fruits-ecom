@@ -1,7 +1,7 @@
 # Push Code Commands
-git add . .\
-git commit -m "Your commit message" .\
-git push origin main .\
+git add . \
+git commit -m "Your commit message" \
+git push origin main
 
 # Getting Started with Create React App
 
