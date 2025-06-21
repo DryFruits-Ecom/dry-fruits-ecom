@@ -1,3 +1,8 @@
+# Push Code Commands
+git add . .\
+git commit -m "Your commit message" .\
+git push origin main .\
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
